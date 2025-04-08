@@ -1,0 +1,6 @@
+{
+  "name": "SimpleTestBot",
+  "description": "A minimal bot with a working /start command",
+  "version": "1.0",
+  "main": "_start.js"
+}
